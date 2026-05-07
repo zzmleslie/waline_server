@@ -1,8 +1,0 @@
-{
-  "extends": "@mr-hope/tsconfig/web.json",
-  "compilerOptions": {
-    "rootDir": "./src/.vuepress",
-    "types": ["node", "vite/client"]
-  },
-  "include": ["./src/.vuepress/**/*.ts", "./src/.vuepress/**/*.vue"]
-}
