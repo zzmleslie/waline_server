@@ -1,8 +1,0 @@
-{
-  "extends": "@mr-hope/tsconfig/web.json",
-  "compilerOptions": {
-    "rootDir": "./src",
-    "types": ["vite/client"]
-  },
-  "include": ["./src/**/*.ts"]
-}
